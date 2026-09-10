@@ -1,0 +1,10 @@
+C:\Users\AndrushaPC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ServiceControlPanel.csproj.AssemblyReference.cache
+C:\Users\AndrushaPC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\AndrushaPC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ServiceControlPanel.csproj.GenerateResource.cache
+C:\Users\AndrushaPC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ServiceControlPanel.csproj.CoreCompileInputs.cache
+C:\Users\AndrushaPC\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ServiceControlPanel.exe.config
+C:\Users\AndrushaPC\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ServiceControlPanel.exe
+C:\Users\AndrushaPC\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ServiceControlPanel.pdb
+C:\Users\AndrushaPC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ServiceControlPanel.Properties.Resources.resources
+C:\Users\AndrushaPC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ServiceControlPanel.exe
+C:\Users\AndrushaPC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ServiceControlPanel.pdb
